@@ -1,0 +1,192 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+For List in 2011
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==================================================================
+Giegue
+==================================================================
+Name: Poo
+Date: 9/29
+                -Receipt Total: 1.56
+Name: Titanic_Ant
+Date: 9/29
+                -Receipt Total: 50.00
+Name: Jeff
+Date: 10/12
+                -Receipt Total: 6.16
+Name: Jeff
+Date: 10/14
+                -Receipt Total: 40.00
+Name: Paula
+Date: 10/15
+                -Receipt Total: 1.24
+Name: Paula
+Date: 10/15
+                -Receipt Total: 42.38
+Name: Jeff
+Date: 10/16
+                -Receipt Total: 24.48
+Name: Ness
+Date: 10/20
+                -Receipt Total: 8.98
+Name: Fourside
+Date: 10/25
+                -Receipt Total: 273.45
+Name: Poo
+Date: 10/25
+                -Receipt Total: 19.80
+Name: Poo
+Date: 10/25
+                -Receipt Total: 90.60
+Name: Titanic_Ant
+Date: 10/25
+                -Receipt Total: 682.10
+Name: Poo
+Date: 10/26
+                -Receipt Total: 7.96
+Name: Poo
+Date: 10/27
+                -Receipt Total: 2.49
+Name: Paula
+Date: 11/5
+                -Receipt Total: 2.66
+Name: Jeff
+Date: 11/7
+                -Receipt Total: 10.65
+Name: Jeff
+Date: 11/9
+                -Receipt Total: 36.42
+Name: Poo
+Date: 11/10
+                -Receipt Total: 12.98
+Name: Ness
+Date: 11/25
+                -Receipt Total: 67.33
+==================================================================
+Total for 19 receipts in Giegue Sub-Category is $1381.24.
+==================================================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==================================================================
+Giygas
+==================================================================
+Name: Jeff
+Date: 8/13
+                -Receipt Total: 42.99
+Name: Titanic_Ant
+Date: 9/8
+                -Receipt Total: 38.42
+Name: Poo
+Date: 10/2
+                -Receipt Total: 40.01
+Name: Jeff
+Date: 10/13
+                -Receipt Total: 8.21
+Name: Paula
+Date: 10/15
+                -Receipt Total: 12.34
+Name: Paula
+Date: 10/15
+                -Receipt Total: 25.30
+Name: Paula
+Date: 10/15
+                -Receipt Total: 120.44
+Name: Ness
+Date: 10/17
+                -Receipt Total: 8.02
+Name: Poo
+Date: 10/18
+                -Receipt Total: 17.05
+Name: Paula
+Date: 10/21
+                -Receipt Total: 9.52
+Name: Jeff
+Date: 10/22
+                -Receipt Total: 26.46
+Name: Poo
+Date: 10/23
+                -Receipt Total: 9.07
+Name: Onett
+Date: 10/25
+                -Receipt Total: 134.00
+Name: Jeff
+Date: 10/26
+                -Receipt Total: 13.47
+Name: Nesso
+Date: 10/26
+                -Receipt Total: 67.33
+Name: Poo
+Date: 10/31
+                -Receipt Total: 15.76
+Name: Poo
+Date: 11/2
+                -Receipt Total: 8.22
+Name: Jeff
+Date: 11/8
+                -Receipt Total: 16.90
+==================================================================
+Total for 18 receipts in Giygas Sub-Category is $613.51.
+==================================================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==================================================================
+Pokey
+==================================================================
+Name: Titanic_Ant
+Date: 9/19
+                -Receipt Total: 7.45
+Name: Poo
+Date: 10/14
+                -Receipt Total: 10.70
+Name: Paula
+Date: 10/15
+                -Receipt Total: 6.00
+Name: Paula
+Date: 10/15
+                -Receipt Total: 30.45
+Name: Paula
+Date: 10/15
+                -Receipt Total: 67.88
+Name: Poo
+Date: 10/15
+                -Receipt Total: 12.71
+Name: Jeff
+Date: 10/20
+                -Receipt Total: 7.96
+Name: Poo
+Date: 10/24
+                -Receipt Total: 1.76
+Name: Paula
+Date: 10/25
+                -Receipt Total: 12.00
+Name: Twoson
+Date: 10/25
+                -Receipt Total: 167.98
+Name: Poo
+Date: 10/29
+                -Receipt Total: 14.53
+Name: Jeff
+Date: 10/30
+                -Receipt Total: 4.44
+Name: Paula
+Date: 10/30
+                -Receipt Total: 20.00
+Name: Poo
+Date: 11/1
+                -Receipt Total: 6.98
+Name: Jeff
+Date: 11/4
+                -Receipt Total: 14.75
+Name: Ness
+Date: 11/6
+                -Receipt Total: 6.31
+Name: Jeff
+Date: 11/7
+                -Receipt Total: 6.38
+==================================================================
+Total for 17 receipts in Pokey Sub-Category is $398.28.
+==================================================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Overall for 54 receipts in 2011, total is: $2393.03.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
