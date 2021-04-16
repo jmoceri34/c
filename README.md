@@ -6,4 +6,4 @@
 
 <a name="overview"></a>
 ## Overview
-A pretty cool tax receipts organizer I built in 2011. Given an input file, organize and sort the items and generate a report output file
+A pretty cool tax receipts organizer I built in 2011. Given an input file, organize and sort the items and generate a report output file.
